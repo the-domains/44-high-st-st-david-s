@@ -2,17 +2,17 @@
     <channel>
         <title><![CDATA[44 High St St David's]]></title>
         <description><![CDATA[44 High St St David's]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/44-high-st-st-david-s/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 14:41:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Dec 2015 14:42:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/44-high-st-st-david-s/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to 44 High St]]></title>
             <description><![CDATA[<article><h1>Welcome to 44 High St</h1><p>Welcome
 to 44 High Street!</p></article>]]></description>
-            <link>undefinedwelcome-to-44-high-st/index.html</link>
+            <link>https://thegrid.ai/44-high-st-st-david-s/welcome-to-44-high-st/index.html</link>
             <guid isPermaLink="false">b7fc4081-afc7-4b92-82aa-0651eef0fc7d</guid>
-            <pubDate>Mon, 14 Dec 2015 14:41:33 GMT</pubDate>
+            <pubDate>Mon, 14 Dec 2015 14:42:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
