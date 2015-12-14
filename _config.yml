@@ -1,0 +1,28 @@
+name: "44 High St St David's"
+favicon: null
+layout_spectrum: 0.40109893400222063
+typography_spectrum: 0.3651022238191217
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5301560210064054
+  lightness: 0.5577311043161899
+  saturation: 0.4384594429284334
+  rhythmicContrast: 0.8800957961939275
+purpose: []
