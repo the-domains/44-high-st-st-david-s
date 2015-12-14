@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[44 High St St David's]]></title>
+        <description><![CDATA[44 High St St David's]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 14 Dec 2015 14:41:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to 44 High St]]></title>
+            <description><![CDATA[<article><h1>Welcome to 44 High St</h1><p>Welcome
+to 44 High Street!</p></article>]]></description>
+            <link>undefinedwelcome-to-44-high-st/index.html</link>
+            <guid isPermaLink="false">b7fc4081-afc7-4b92-82aa-0651eef0fc7d</guid>
+            <pubDate>Mon, 14 Dec 2015 14:41:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
